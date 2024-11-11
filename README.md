@@ -1,2 +1,2 @@
 # C-Programming
-In this repository i here are two files 1 is for raw practice and another is for problem solving
+In this repository i here are two files, First one is for raw practice file and Second one is for problem solving.
